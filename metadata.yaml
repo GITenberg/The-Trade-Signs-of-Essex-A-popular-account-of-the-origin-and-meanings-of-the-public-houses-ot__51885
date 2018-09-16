@@ -1,0 +1,26 @@
+_repo: The-Trade-Signs-of-Essex-A-popular-account-of-the-origin-and-meanings-of-the-public-houses-ot__51885
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Christy, Miller
+    birthdate: 1861
+    gutenberg_agent_id: '46591'
+    url: http://www.gutenberg.org/2009/agents/46591
+description: ''
+gutenberg_issued: '2016-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51885'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GT'
+- !lcsh 'Signs and signboards -- England -- Essex'
+- !lcsh 'Essex (England) -- Social life and customs'
+- !lcsh 'Hotels -- England -- Essex'
+- GITenberg
+title: "The Trade Signs of Essex\r\nA popular account of the origin and meanings of\
+  \ the public houses & other signs"
+url: http://www.gutenberg.org/ebooks/51885
